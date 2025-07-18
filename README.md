@@ -1,8 +1,12 @@
-<img align="right" height="227" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwwNzIwbzkxdHg0NXhmMmhkcnM4a3NrMzR3ZTM1dWdldjRkNXB5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"  />
-
 ###
 
 <h1 align="center">Hi there! I'm Paola 👋</h1>
+
+###
+
+<div align="center">
+  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwwNzIwbzkxdHg0NXhmMmhkcnM4a3NrMzR3ZTM1dWdldjRkNXB5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"  />
+</div>
 
 ###
 
@@ -12,13 +16,11 @@
   </a>
 </div>
 
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working as a fullstack developer at Mywork, a Brazilian HR tech startup.<br>- 💻 I work mostly with JavaScript, TypeScript, React, Node.js, and Ruby on Rails. I also have hands-on experience with AWS services.<br>- 📚 I'm currently studying Information Systems and always looking to deepen my skills and learn new technologies.<br>- ⚡ I enjoy exploring how technology can positively impact people's lives — it's what inspires and motivates my work.<br><br>I'm 24 years old and started my career in tech back in 2020 as a software development intern. Since then, I've been focused on growing as a professional and sharing knowledge along the way.<br><br>I'm passionate about technology and even more fascinated by the transformation it brings to people's everyday lives. My goal is to keep discovering meaningful ways to use tech to make a difference 🚀</p>
+<p align="left">- 🔭 I’m working as a fullstack developer at [Mywork](https://www.mywork.com.br), a Brazilian HR tech startup.<br>- 💻 I work mostly with JavaScript, TypeScript, React, Node.js, and Ruby on Rails. I also have hands-on experience with AWS services.<br>- 📚 I'm currently studying Information Systems and always looking to deepen my skills and learn new technologies.<br>- ⚡ I enjoy exploring how technology can positively impact people's lives — it's what inspires and motivates my work.<br><br>I'm 24 years old and started my career in tech back in 2020 as a software development intern. Since then, I've been focused on growing as a professional and sharing knowledge along the way.<br><br>I'm passionate about technology and even more fascinated by the transformation it brings to people's everyday lives. My goal is to keep discovering meaningful ways to use tech to make a difference 🚀</p>
 
 ###
 
